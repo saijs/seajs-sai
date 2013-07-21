@@ -1,0 +1,12 @@
+{
+  "family": "seajs",
+  "name": "seajs-monitor",
+  "version": "0.0.1",
+  "description": "A Sea.js plugin for catch javascript exceptions.",
+  "keywords": ["seajs", "plugin", "exception"],
+  "author": "hotoo <hotoo.cn@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hotoo/seajs-monitor.git"
+  }
+}
