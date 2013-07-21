@@ -8,7 +8,7 @@ Usage
 -----
 
 ```html
-<!-- seer tiny script for monitor -->
+<!-- tiny seer script for monitor -->
 <script src="path/to/seer.js"></script>
 <script src="path/to/sea.js"></script>
 <script src="path/to/seajs-monitor.js"></script>
